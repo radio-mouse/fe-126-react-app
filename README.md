@@ -1,3 +1,3 @@
-# react app boilerplate
+# react boilerplate for FE-126 group students
 ## `npm start`
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
